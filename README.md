@@ -5,7 +5,7 @@
 
 ## Sobre mim
 
-<h4 id="sobre" align="left">Olá 👋! Meu nome é Marcus Vinícius Letizio, tenho 19 anos e sou um iniciante no mundo da programação. Atualmente estou no terceiro semestre de Ciência da Computação na faculdade Anchieta em Jundiaí, São Paulo.</h4>
+<h4 id="sobre" align="left">Olá 👋! Meu nome é Marcus Vinícius Letizio, tenho 21 anos e sou um iniciante no mundo da programação. Atualmente estou no terceiro semestre de Ciência da Computação na faculdade Anchieta em Jundiaí, São Paulo.</h4>
 <br>
 
 ## Redes sociais
